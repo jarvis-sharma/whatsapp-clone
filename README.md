@@ -1,16 +1,21 @@
-# third
+# WhatsApp clone
 
-A new Flutter project.
+Whatsapp UI only in flutter
 
-## Getting Started
+## This is how the App looks like
 
-This project is a starting point for a Flutter application.
+### Chats 
 
-A few resources to get you started if this is your first Flutter project:
+![](https://github.com/jarvis-sharma/whatsapp-clone/blob/main/images/2020-12-09%20(5).png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Status
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://github.com/jarvis-sharma/whatsapp-clone/blob/main/images/2020-12-09%20(6).png)
+
+### Calls
+
+![](https://github.com/jarvis-sharma/whatsapp-clone/blob/main/images/2020-12-09%20(7).png)
+
+### Camera
+
+![](https://github.com/jarvis-sharma/whatsapp-clone/blob/main/images/2020-12-09%20(8).png)
